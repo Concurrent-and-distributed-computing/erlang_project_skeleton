@@ -1,6 +1,6 @@
 Erlang Project Skeleton
 =====
-
+Install rebar3 by following the [Getting started guide](https://rebar3.readme.io/docs/getting-started)
 
 Get dependencies
 -----
