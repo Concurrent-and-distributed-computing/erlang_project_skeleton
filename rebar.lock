@@ -1,5 +1,5 @@
 [{<<"cowboy">>,
-  {git,"git://github.com/ninenines/cowboy",
+  {git,"https://github.com/ninenines/cowboy",
        {ref,"04ca4c5d31a92d4d3de087bbd7d6021dc4a6d409"}},
   0},
  {<<"cowlib">>,
